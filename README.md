@@ -4,21 +4,21 @@ You can use the [editor on GitHub](https://github.com/ws1204100711/JianWen/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 你可以使用富文本编写
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
 - Bulleted
-- List
+- 列表
 
-1. Numbered
+1. 编号
 2. List
 
 **Bold** and _Italic_ and `Code` text
